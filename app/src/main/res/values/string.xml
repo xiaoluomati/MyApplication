@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="goto_login">Goto Login</string>
+
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+
+    <string name="teacher_function_button1">查看学生列表</string>
+    <string name="teacher_function_button2">查看考试列表</string>
+    <string name="teacher_function_button3">查看作业列表</string>
+    <string name="teacher_function_button4">查看练习列表</string>
+    <string name="teacher_function_button5">查看学生分数</string>
+    <string name="student_function_button6">查看考试列表</string>
+    <string name="student_function_button7">查看作业列表</string>
+    <string name="student_function_button8">查看练习列表</string>
+    <string name="student_function_button9">查看考试分析</string>
+
+    <string name="student_id">编号</string>
+    <string name="student_gender">性别</string>
+    <string name="student_gitId">Git编号</string>
+    <string name="student_gitUsername">Git用户名</string>
+    <string name="student_username">学号</string>
+    <string name="student_schoolId">学校编号</string>
+    <string name="student_name">姓名</string>
+    <string name="student_number">学号</string>
+    <string name="student_score">分数</string>
+    <string name="student_scored">是否评分</string>
+
+    <string name="exam_id">考试id</string>
+    <string name="homework_id">作业id</string>
+    <string name="exercise_id">练习id</string>
+
+    <string name="exam_title">名称</string>
+    <string name="exam_description">描述</string>
+    <string name="exam_startAt">开始时间</string>
+    <string name="exam_endAt">结束时间</string>
+    <string name="exam_course">课时</string>
+    <string name="exam_status">状态</string>
+
+    <string name="question_id">*问题id</string>
+    <string name="question_title">问题名称</string>
+    <string name="question_description">问题描述</string>
+    <string name="question_difficulty">问题难度</string>
+    <string name="question_gitUrl">问题URL</string>
+    <string name="question_creator_name">问题创建者</string>
+
+    <string name="exam_status_newly">新建态</string>
+    <string name="exam_status_initing">正在初始化</string>
+    <string name="exam_status_initFail">初始化失败</string>
+    <string name="exam_status_initSuccess">初始化成功</string>
+    <string name="exam_status_ongoing">考试正在进行</string>
+    <string name="exam_status_timeup">考试时间到</string>
+    <string name="exam_status_analyzing">正在分析结果</string>
+    <string name="exam_status_analyzingFinish">结果分析完毕</string>
+
+    <string name="compile_succeeded">是否编译成功</string>
+    <string name="tested">是否经过测试</string>
+    <string name="testcase_name">测试用例名称</string>
+    <string name="testcase_ispassed">测试用例是否通过</string>
+
+    <string name="total_line_count">总行数</string>
+    <string name="comment_line_count">注释行数</string>
+    <string name="field_count">字段数</string>
+    <string name="method_count">方法数</string>
+
+    <string name="list_name">列表</string>
+    <string name="function_list">功能列表</string>
+    <string name="group_list">班级列表</string>
+    <string name="student_detaillist">学生信息列表</string>
+    <string name="exam_detail">考试详情</string>
+    <string name="homework_detail">作业详情</string>
+    <string name="exercise_detail">练习详情</string>
+    <string name="assignment_list">提交列表</string>
+    <string name="question_list">问题列表</string>
+    <string name="question_result_list">问题得分详情</string>
+    <string name="analysis_detail_list">分析详情</string>
+</resources>
